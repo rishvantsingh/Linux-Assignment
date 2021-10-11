@@ -1,0 +1,2 @@
+hii this assignment is all about running the .sh file in bash with all the 
+commands.
